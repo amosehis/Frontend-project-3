@@ -1,0 +1,199 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+header{
+    width: 100vw;
+    height: 18vh;
+    margin: 0%;
+    padding: 0%;
+}
+.frame{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-brand{
+    color: palevioletred;
+    margin: 40px 60px;
+    font-size: 40px;
+}
+
+
+ul{
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+}
+
+.navbar-items li a{
+    border-radius: 50px;
+    text-decoration: none;
+    display: flex;
+    padding: 1px 10px;
+    font-size: 20px;
+    color: black;
+
+}
+span{
+    color: rgb(27, 130, 27);
+} 
+.frame li button{
+    width: 250px; 
+    height: 60px;
+    font-size: 25px;
+    margin: 13% 78px;
+    background-color: white;
+    color: green;
+    border: 0.5px solid black;
+}
+.navbar{
+    height: 30px;
+    width: 100vw;
+    text-align: cente;
+    background-color: rgb(230, 127, 10);
+}
+.navbar ul li a{
+    color: white;
+    padding: 10px 40px;
+    margin-right: px;
+}
+.yes{
+    height: 20vh;
+    background-image: url(./office.jpg);
+
+}
+.yes h3{
+    color: orange;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+}
+.place{
+    height: 10vh;
+    width: 100vw;
+    background-color: brow;
+}
+.place ul li a{
+    color: black;
+    font-size: 30px;
+    padding: 20px 30px;
+}
+.map img{
+    height: 50vh;
+    width: 100vw;
+}
+.Acess{
+    height: 70vh;
+    width: 100vw;
+}
+.info{
+    height: 50vh;
+    width: 50vw;
+    padding-left: 150px;
+}
+.four{
+    height: 20px;
+    width: 20px;
+    text-align: center;
+}
+
+.PRO{
+    height: 50vh;
+    width: 50vw;
+    padding-right: 100px;
+}
+
+.Full{
+    height: 5vh;
+    width: 30vw;
+}
+.mail{
+    height: 5vh;
+    width: 30vw;
+}
+.box{
+    height: 15vh;
+    width: 30vw;
+
+}
+.last{
+    height: 40px;
+    width: 150px;
+    background-color: rgb(198, 218, 236);
+}
+.send{
+    height: 40px;
+    width: 20%;
+    color: black;
+}
+
+.Work{
+    height: 50vh;
+    width: 100vw;
+    background-color: rgb(161, 109, 12);
+    color: white;
+
+}
+
+
+.experience{
+    height: 50vh;
+    width: 33.5vw;
+    padding: 0px;
+    color: white;
+    padding: 0%;
+    position: relative;
+    left: 50px;
+
+}
+.Offer{
+    height: 50vh;
+    width: 33vw;
+    color: white;
+    position: relative;
+    top: 0;
+    left: 50px;
+}
+.Project li{
+    color: white;
+}
+.class{
+    height: 50vh;
+    width: 33.5vw;
+    padding: 20px;
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 0px;
+}
+.newsletter{
+    height: 8vh;
+}
+.submit{
+    height: 8vh;
+    width: 20vw;
+}
+.submit{
+    height: 40px;
+    width: 20%;
+    background-color: rgb(148, 168, 14);
+    color: white;
+}
+.social{
+    height: 20px;
+    width: 25px;
+    text-align: center;
+    background-color: white;
+    color: white;
+}
+h2{
+    color: white;
+}
